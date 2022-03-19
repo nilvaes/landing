@@ -45,15 +45,14 @@ body {
   gap: 50px;
   margin: 0 500px;
   align-items: center;
+  justify-content: center;
   padding-bottom: 130px;
 }
 
-.container-main .text-bild {
-  width: 700px;
-}
 
 .container-main .text-bild p {
   font-size: 20px;
+  width: 500px;
 }
 
 
