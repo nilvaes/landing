@@ -30,7 +30,7 @@ body {
 
 
 .header-links ul li {
-  list-style-type: none;;
+  list-style-type: none;
   font-size: 20px;
 }
 
@@ -51,7 +51,7 @@ body {
 
 
 .container-main .text-bild p {
-  font-size: 20px;
+  font-size: 24px;
   width: 500px;
 }
 
@@ -199,4 +199,11 @@ footer {
 
 footer .footer-text {
   padding: 50px 125px;
+}
+
+footer .footer-text a {
+  text-decoration: none;
+  color: royalblue; 
+  border-radius: 15px;
+  
 }
